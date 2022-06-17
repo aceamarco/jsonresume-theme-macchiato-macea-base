@@ -1,0 +1,18 @@
+{
+  "name": "jsonresume-theme-macchiato-<theme name>",
+  "version": "1.0.0",
+  "description": "Simple theme for JSON Resume. Based on macchiato, which based on caffeine-theme.",
+  "author": "<Author> (Fork created by Alessandro Biondi)",
+  "repository": {
+    "type": "git",
+    "url": "<Enter your Github url here!>"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "address-format": "^0.0.3",
+    "handlebars": "^4.7.2",
+    "handlebars-wax": "^6.1.0",
+    "moment": "^2.24.0",
+    "swag": "^0.7.0"
+  }
+}
